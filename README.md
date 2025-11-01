@@ -47,9 +47,9 @@ javac src/*.java
 Run:
 java src.TaskManager
 
-Demo
-
-![Task Manager Demo](demo.gif)
+## 🎥 Demo Video  
+▶️ **Watch demo**  
+https://drive.google.com/file/d/1gHYFNQu6V9tjTOjBUMSS0SmcCzf0TBOw/view?usp=sharing
 
 Future Improvements
 
